@@ -1,6 +1,6 @@
 # ssrdog官网地址
 
-最新地址：[ssrdog111.com](https://ssrdog111.com/#/register?code=smJtsDC7)
+最新地址：[ssrdog111.com](https://dog.ssrdog111.com/#/register?code=smJtsDC7)
 
 ## 简介
 
